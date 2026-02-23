@@ -7,7 +7,7 @@ function App() {
       <p>This is my personal homepage.</p>
 
       <div style={{ marginTop: "30px" }}>
-        <a href="/project1">
+        <a href="https://2024zuel-report.vercel.app" target="_blank">
           <button style={{ margin: "10px" }}>Project 1</button>
         </a>
 
