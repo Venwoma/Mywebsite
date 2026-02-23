@@ -11,7 +11,7 @@ function App() {
           <button style={{ margin: "10px" }}>Project 1</button>
         </a>
 
-        <a href="/project2">
+        <a href="https://survey-tau-one.vercel.app" target="_blank">
           <button style={{ margin: "10px" }}>Project 2</button>
         </a>
       </div>
