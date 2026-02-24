@@ -7,12 +7,12 @@ function App() {
       <p>This is my personal homepage.</p>
 
       <div style={{ marginTop: "30px" }}>
-        <a href="https://2024zuel-report.vercel.app" target="_blank">
-          <button style={{ margin: "10px" }}>Project 1</button>
+        <a href="https://survey-tau-one.vercel.app" target="_blank">
+          <button style={{ margin: "10px" }}>Survey Management</button>
         </a>
 
-        <a href="https://survey-tau-one.vercel.app" target="_blank">
-          <button style={{ margin: "10px" }}>Project 2</button>
+        <a href="https://2024zuel-report.vercel.app"  target="_blank">
+          <button style={{ margin: "10px" }}>ZUEL Report</button>
         </a>
       </div>
     </div>
